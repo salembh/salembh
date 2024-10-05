@@ -59,10 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/salembh/salembh/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="center">Socials:</h4>
 
 ###
